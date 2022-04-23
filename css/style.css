@@ -1566,11 +1566,13 @@ html {
 
 }
 
-@media (max-width: 414px) {
+@media (max-width: 500px) {
 
-    .main__info {
-        bottom: 5px;
-    }
+    .main__title {
+        margin-bottom: 5px;
+        font-size: 28px;
+        line-height: 40px;
+    }  
 
     .main__title {
         margin-bottom: 5px;
@@ -1587,6 +1589,9 @@ html {
     .main-contact-btn {
         display: none;
     }
+}
+
+@media (max-width: 414px) {
 
     .section-about__title {
         font-size: 35px;
