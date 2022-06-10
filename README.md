@@ -1,2 +1,6 @@
-# SakaAgency
-https://m1arsen.github.io/SakaAgency/
+# Одностраничный сайт - [Saka Agency](https://m1arsen.github.io/SakaAgency/)
+- Есть адаптив до 320px
+- Сайт кроссбраузерный
+- CSS код минифицирован
+- Все изображения оптимизированы
+- Плавный скролл к различным элеменетам
